@@ -1,7 +1,2 @@
 <hr/>
-
-<p align="center"><img src="picture/picture1.gif" background-color="black" width="" height="" alt=hello> <p/>
-
-<h1 align="center">
-It's me Shimul
-</h1><br/>
+<p align="center"><img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0008.gif" width="" height="" alt=hello> <p/>
