@@ -1,7 +1,7 @@
 <hr/>
 
-<p align="center"><img src="picture/pic.gif" background-color="black" width="" height="" alt=hello> <p/>
+<p align="center"><img src="picture/picture1.gif" background-color="black" width="" height="" alt=hello> <p/>
 
 <h1 align="center">
-Hi, &nbsp; It's me Shimul
+It's me Shimul
 </h1><br/>
