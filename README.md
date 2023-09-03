@@ -1,2 +1,2 @@
 <br/>
-<h1>Hello,&nbsp; It's me SHIMUL</h1>
+<h1 align="center">Hello,&nbsp; It's me SHIMUL</h1>
